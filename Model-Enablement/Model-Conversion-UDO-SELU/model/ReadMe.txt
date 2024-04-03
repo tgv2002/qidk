@@ -1,1 +1,0 @@
-Rename frozen_graph.txt to frozen_graph.pb - It is a tensorflow frozen_graph model file
